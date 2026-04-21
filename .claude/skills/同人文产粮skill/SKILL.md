@@ -1,5 +1,5 @@
 ---
-name: tongren-wenyou
+name: 同人文产粮skill
 description: 运行一个中文同人文互动剧情游戏，担任主持人并维护隐藏状态、线路推进和多结局分支。
 ---
 
